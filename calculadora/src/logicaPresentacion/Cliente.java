@@ -4,7 +4,7 @@ package logicaPresentacion;
  *
  * @author HP
  */
-public class Calculadora {
+public class Cliente {
 
     /**
      * @param args the command line arguments
